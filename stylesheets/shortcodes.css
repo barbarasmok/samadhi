@@ -2246,18 +2246,24 @@
 }
 
 .flat-image-box.style-2 .sub-title {
-	font-size: 24px;
-	line-height: 44px;
+	font-size: 18px;
+	line-height: 1.1;
 	color: #333;
+	padding: 10px 0;
+	text-align: center;
+	margin: auto;
 }
 
 .flat-image-box.style-2 .title {
-	font-size: 48px;
+	font-size: 57px;
 	line-height: 60px;
+	padding: 10px 0;
+	text-align: center;
+	margin: auto;
 }
 
 .flat-image-box.style-2 .themesflat-button {
-	margin: 36px 0px 0px 2px;
+	margin: 0 0 0 0;
 }
 
 /* Absolute left */
@@ -2308,7 +2314,8 @@
 
 /* Absolute right */
 .flat-image-box.absolute-right .text-wrap {
-	left: auto;
+	margin: auto;
+	text-align: center;
 	transform: translate(0,-50%);
 	margin: 0;
 	right: 11%;

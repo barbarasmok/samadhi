@@ -361,6 +361,11 @@
       });
     };
 
+    document.querySelector('.go-contact').scrollIntoView({ 
+        behavior: 'smooth' 
+      });
+
+
     var parallax = function(){
       if( $().parallax && isMobile.any() == null ){
         $('.parallax1').parallax("50%", 1);

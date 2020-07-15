@@ -61,6 +61,12 @@
 		line-height: 1.5;
 	}
 
+	.title {
+		font-family: "Berliner Grotesk Medium";
+		font-size: 2.5rem;
+		padding: 28px;
+	}
+
 }
 
 @media (min-width: 1024px) {
@@ -92,7 +98,7 @@
 
     .demo-1 a {
         position: absolute;
-        left: 450px;
+        left: 435px;
         top: -100px;
     }
 
@@ -122,7 +128,39 @@
     .navbar-expand-xl .navbar-nav .nav-link {
         font-size: 1.4rem;
         color: #353434;
-    }
+	}
+	
+	.flat-image-box.style-2 .sub-title {
+		font-size: 22px;
+		line-height: 1.1;
+		color: #333;
+		padding: 10px 0;
+		text-align: center;
+		margin: auto;
+	}
+	
+	.flat-image-box.style-2 .title {
+		font-size:82px;
+		line-height: 1;
+		padding: 10px 0;
+		text-align: center;
+		margin: auto;
+	}
+
+	.flat-image-box.absolute-right .text-wrap {
+		text-align: center;
+		margin: auto;
+		transform: translate(0,-50%);
+		margin: 0;
+			margin-top: 0px;
+		margin-top: 19px;
+	}
+
+	.title {
+		font-family: "Berliner Grotesk Medium";
+		font-size: 3rem;
+		padding: 28px;
+	}
 }
 
 @media only screen and (max-width: 1366px) {
@@ -300,9 +338,9 @@
 		font-size: 28px;
 	}
 
-	.flat-image-box.style-2 .title {
+	/* .flat-image-box.style-2 .title {
 		font-size: 38px;
-	}
+	} */
 
 	.instagram-wrap.col5 .instagram_badge_image {
 		width: 50%;
@@ -634,6 +672,11 @@
 		padding: 35px 0px !important;
 	}
 
+	.flat-image-box.style-2 .themesflat-button {
+		margin: 36px 0px 0px 2px;
+			margin-top: 36px;
+	}
+
 }
 
 @media only screen and ( max-width: 479px ) {
@@ -658,9 +701,9 @@
 		display: none;
 	}
 	
-	.flat-image-box.style-2 .title {
+	/* .flat-image-box.style-2 .title {
 		font-size: 30px;
-	}
+	} */
 
 	.owl-theme .owl-dots {
 		display: none !important;

@@ -3017,7 +3017,7 @@ img {
 
 .demo-1 a {
     position: absolute;
-    left: 65px;
+    left: 85px;
     top: -150px;
 }
 
@@ -3108,7 +3108,6 @@ h1 {
     border-radius: none;
 }
   
-
 .sIcon3 {
     width: 35px;
     height: 35px;
@@ -3133,3 +3132,13 @@ h1 {
 .footerText {
 	color: white;
 }
+
+.title {
+	font-family: "Berliner Grotesk Medium";
+	font-size: 2rem;
+	padding: 28px;
+	text-align: center;
+	margin: auto;
+	padding: 10px 0;
+}
+
