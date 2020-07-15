@@ -668,11 +668,13 @@ h6 { font-size: 14px; line-height: 48px; font-weight: 400;}
 }
 
 .text-accent {
-	color: #f63440 !important;
+	color: #F69D9D !important;
 }
 
 .text-333 {
-	color: #333333 !important;
+    color: #333333 !important;
+	font-size: 13px;
+	line-height: 1.5;
 }
 
 .text-6e6 {
@@ -3116,4 +3118,9 @@ h1 {
 
 .sIcon3:hover path {
     fill: #F4D426;
+}
+
+.ImageTitle {
+	font-size: 20px;
+	line-height: 1.1;
 }

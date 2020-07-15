@@ -44,7 +44,18 @@
         line-height: 1.5;
         text-align: center;
         font-weight: 900;
-    }
+	}
+	
+	.ImageTitle {
+		font-size: 12px;
+		line-height: 1.1;
+	}
+
+	.text-333 {
+		color: #333333 !important;
+		font-size: 8px;
+		line-height: 1.5;
+	}
 
 }
 
@@ -59,6 +70,17 @@
 		width: 100%;
 		padding: 5px;
     } */
+
+	.text-333 {
+		color: #333333 !important;
+		font-size: 12px;
+		line-height: 1.5;
+	}
+
+	.ImageTitle {
+		font-size: 24px;
+		line-height: 1.1;
+	}
 
     .demo-1 a {
         position: absolute;
