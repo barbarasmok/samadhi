@@ -8,6 +8,10 @@
         width: 15%;  
     } */
 
+	.iconbox .box-content p {
+		font-size: 12px;
+	}
+
     .jumbotron-fluid {
         text-align: center;
         background: url('../images/samadhi-banner.png') no-repeat ;
@@ -70,6 +74,10 @@
 		width: 100%;
 		padding: 5px;
     } */
+
+	.iconbox .box-content p {
+		font-size: 16px;
+	}
 
 	.text-333 {
 		color: #333333 !important;
