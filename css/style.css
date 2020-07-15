@@ -101,7 +101,7 @@ h1 {
     border:none;
 }
 
-.socialIcons {
+/* .socialIcons {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -116,7 +116,7 @@ h1 {
 
 .socialIcon {
     width: 75%;
-}
+} */
 
 .card {
     position: relative;
