@@ -574,12 +574,24 @@
 	padding: 0px 47px;
 }
 
+.themesflat-button.bg-accent2 {
+	background-color: #000;
+	color: #fff;
+	line-height: 47px;
+	padding: 0px 47px;
+} 
+
 .themesflat-button.has-shadow {
 	box-shadow: 0px 5px 19px 1px rgba(36, 11, 12, 0.15); 
 }
 
 .themesflat-button.bg-accent:hover {
 	background-color: white;
+	color: black;
+}
+
+.themesflat-button.bg-accent2:hover {
+	background-color: #F69D9D;
 	color: black;
 }
 
